@@ -1,0 +1,25 @@
+<h2>Hi, I’m Harshad Gupta👋</h2>
+<ul>
+    <li>💻 Expert ASP.NET (.Net Developer | C# | .Net Core) Full Stack Web Developer, Bootstrap, HTML, CSS, SQL Server, JavaScript, TypeScript.</li>
+    <li>⚒️ Currently working on personal project (Society-Pro).</li>
+    <li>💪 Software Engineer | .Net C# Full Stack Developer | Efficient Problem Solver.</li>
+</ul>
+
+<h2>Contact Me🙋‍♂️</h2>
+<ul>
+    <li><a href='https://www.linkedin.com/in/harshad-gupta2505/'>LinkedIn</a></li>
+    <li><a href='https://www.instagram.com/____harshad.gupta____/'>Instagram</a></li>
+    <li><a href='https://www.facebook.com/harshad.gupta.3591'>Facebook</a></li>
+</ul>
+
+<h2>Projects Create👨‍💻</h2>
+<ul>
+    <li><a href='http://103.199.131.94:90/Login.aspx'>Online E-Sanchalan</a></li>
+    <li>Attendace Monitoring System</li>
+    <li>Faculty Feedback System</li>
+</ul>
+
+<!---
+Harshad-Gupta/Harshad-Gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
