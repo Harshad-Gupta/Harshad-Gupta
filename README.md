@@ -7,14 +7,14 @@
 
 <h2>Contact Me🙋‍♂️</h2>
 <ul>
-    <li><a href='https://www.linkedin.com/in/harshad-gupta2505/'>LinkedIn</a></li>
-    <li><a href='https://www.instagram.com/____harshad.gupta____/'>Instagram</a></li>
-    <li><a href='https://www.facebook.com/harshad.gupta.3591'>Facebook</a></li>
+    <li><a href='https://www.linkedin.com/in/harshad-gupta2505/' target="_blank">LinkedIn</a></li>
+    <li><a href='https://www.instagram.com/____harshad.gupta____/' target="_blank">Instagram</a></li>
+    <li><a href='https://www.facebook.com/harshad.gupta.3591' target="_blank">Facebook</a></li>
 </ul>
 
 <h2>Projects Create👨‍💻</h2>
 <ul>
-    <li><a href='http://103.199.131.94:90/Login.aspx'>Online E-Sanchalan</a></li>
+    <li><a href='http://103.199.131.94:90/Login.aspx' target="_blank">Online E-Sanchalan</a></li>
     <li>Attendace Monitoring System</li>
     <li>Faculty Feedback System</li>
 </ul>
