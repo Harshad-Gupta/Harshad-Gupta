@@ -8,7 +8,7 @@
 <h2>Contact Me🙋‍♂️</h2>
 <ul>
     <li><a href='https://www.linkedin.com/in/harshad-gupta2505/' target='_blank'>LinkedIn</a></li>
-    <li><a href='https://www.instagram.com/____harshad.gupta____/' target='_blank'>Instagram</a></li>
+    <li><a href='https://www.instagram.com/the_autophile_harsh/' target='_blank'>Instagram</a></li>
     <li><a href='https://www.facebook.com/harshad.gupta.3591' target='_blank'>Facebook</a></li>
 </ul>
 
