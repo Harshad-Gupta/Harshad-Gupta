@@ -14,7 +14,7 @@
 
 <h2>Projects Create👨‍💻</h2>
 <ul>
-    <li><a href='http://103.199.131.94:90/Login.aspx' target='_blank'>Online E-Sanchalan</a></li>
+    <li><a href='http://103.190.14.234:90/Login.aspx' target='_blank'>Online E-Sanchalan</a></li>
     <li>Attendace Monitoring System</li>
     <li>Faculty Feedback System</li>
 </ul>
